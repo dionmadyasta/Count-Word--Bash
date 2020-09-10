@@ -1,6 +1,6 @@
 #!/bin/ksh
 
-file="/mnt/d/kata.txt" #my local directory to store word.txt
+file="/mnt/d/kata.txt" #my local directory to store kata.txt
 while IFS= read line
 do
 
