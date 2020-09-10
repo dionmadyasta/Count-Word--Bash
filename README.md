@@ -1,6 +1,6 @@
 ### DGIT-DevOps coding assessment
 
-Dionyius Dewaji Madyasta, has applied as devops
+Dionysius Dewaji Madyasta, has applied as devops
 
 File : 
 
