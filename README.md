@@ -1,4 +1,4 @@
-### DGIT DevOps Test-DevOps coding assessment
+### DGIT-DevOps coding assessment
 
 Dionyius Dewaji Madyasta, has applied as devops
 
