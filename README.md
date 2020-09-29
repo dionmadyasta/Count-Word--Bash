@@ -1,4 +1,4 @@
-### Count word in a Text File
+### Count word in a Text File with bash
 
 
 
