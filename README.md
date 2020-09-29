@@ -1,6 +1,6 @@
-### DGIT-DevOps coding assessment
+### Count word in a Text File
 
-Dionysius Dewaji Madyasta, has applied as devops
+
 
 File : 
 
