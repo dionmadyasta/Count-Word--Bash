@@ -10,4 +10,5 @@ File :
 run : bash word.sh
 
 Here is the result :
+
 ![result](https://github.com/dionmadyasta/DGIT-test/blob/master/result.png)
